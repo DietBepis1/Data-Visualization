@@ -9,3 +9,6 @@ Build log:
     -Played around with a scatter plot. The first couple scripts of this project will just be random files to get familiar
     with matplotlib.  I'll save these in a separate folder if I don't need them later.
 
+3/27/20
+    -Added random_walk.py to generate plots of random walks
+
