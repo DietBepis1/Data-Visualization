@@ -12,3 +12,7 @@ Build log:
 3/27/20
     -Added random_walk.py to generate plots of random walks
 
+3/28/20
+    -Finished writing a random walk class and generated a bunch of plots.
+    -Tried to make a 10,000,000 point random walk but hit the limit :)
+
