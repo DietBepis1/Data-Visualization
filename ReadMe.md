@@ -16,3 +16,9 @@ Build log:
     -Finished writing a random walk class and generated a bunch of plots.
     -Tried to make a 10,000,000 point random walk but hit the limit :)
 
+3/30/20
+    -Started messing with dice rolling in plotly
+
+3/31/20
+    -Finished my dice rolling exercise with plotly
+    -Now onto some real data science!
